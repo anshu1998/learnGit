@@ -1,3 +1,6 @@
 [submodule "my_lib"]
 	path = my_lib
 	url = ssh://git@review.xapi.co.in:48065/hivedevices/cricket_score.git
+[submodule "my_lib2"]
+	path = my_lib2
+	url = git@github.com:anshu1998/test.git
