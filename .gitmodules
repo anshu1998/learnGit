@@ -1,0 +1,3 @@
+[submodule "my_lib"]
+	path = my_lib
+	url = ssh://git@review.xapi.co.in:48065/hivedevices/cricket_score.git
